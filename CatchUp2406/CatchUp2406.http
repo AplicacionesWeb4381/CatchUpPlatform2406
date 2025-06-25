@@ -1,0 +1,6 @@
+@CatchUp2406_HostAddress = http://localhost:5045
+
+GET {{CatchUp2406_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
