@@ -12,5 +12,15 @@ namespace CatchUp2406.News.Infrastructure
         public async Task<IEnumerable<FavoriteSource>> FindByNewsApiKeyAsync(string newsApiKey) { 
            return await Context.Set<FavoriteSource>().Where(f => f.NewsApiKey == newsApiKey).ToListAsync();
         }
+
+        public async Task<FavoriteSource> FindByIdAsync(string Id)
+        {
+            return await Context.Set<FavoriteSource>().FirstOrDefaultAsync(f => f.SourceId == Id);
+        }
+
+        public async Task<FavoriteSource> FindByNewsApiKeyAsyncSourceId(string NewapiKey, string SourceId)
+        {
+            return await Context.Set<FavoriteSource>().FirstOrDefaultAsync(f => f.NewsApiKey == NewapiKey && f.SourceId== SourceId);
+        }
     }
 }

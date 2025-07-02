@@ -12,11 +12,14 @@ namespace CatchUp2406.News.Application.Internal.CommandServices
         /// <inheritdoc />
         public async Task<FavoriteSource?> Handle(CreateFavoriteSourceCommand command)
         {
-            /*var favoriteSource =
-                await favoriteSourceRepository.FindByNewsApiKeyAndSourceIdAsync(command.NewsApiKey, command.SourceId);
+            var favoriteSource =
+                await favoriteSourceRepository.FindByNewsApiKeyAsyncSourceId (command.NewsApiKey, command.SourceId);
             if (favoriteSource != null)
-                throw new Exception("Favorite source with this SourceId already exists for the given NewsApiKey");*/
-            var favoriteSource = new FavoriteSource(command);
+                throw new Exception("Favorite source with this SourceId already exists for the given NewsApiKey");
+
+
+            favoriteSource = new FavoriteSource(command);
+
             try
             {
                 await favoriteSourceRepository.AddAsync(favoriteSource);

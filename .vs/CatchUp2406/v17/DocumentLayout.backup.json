@@ -7,8 +7,76 @@
       "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\interfaces\\rest\\favoritesourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\domain\\repositories\\ifavoritesourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\domain\\repositories\\ifavoritesourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\application\\internal\\commandservices\\favoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\application\\internal\\commandservices\\favoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\application\\internal\\commandservices\\favoritesourcequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\application\\internal\\commandservices\\favoritesourcequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\domain\\services\\ifavoritesourcequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\domain\\services\\ifavoritesourcequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\infrastructure\\favoritesourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\infrastructure\\favoritesourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\domain\\model\\queries\\getfavoritesourcebynewsapikeyandsourceidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\domain\\model\\queries\\getfavoritesourcebynewsapikeyandsourceidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\interfaces\\rest\\transform\\favoritesourceresourcefromentityassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\interfaces\\rest\\transform\\favoritesourceresourcefromentityassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\domain\\model\\queries\\getfavoritesourcesbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\domain\\model\\queries\\getfavoritesourcesbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\interfaces\\rest\\transform\\createfavoritesourcecommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\interfaces\\rest\\transform\\createfavoritesourcecommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\interfaces\\rest\\resources\\favoritesourceresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\interfaces\\rest\\resources\\favoritesourceresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\domain\\model\\queries\\getallfavoritesourcesbynewsapikeyquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\domain\\model\\queries\\getallfavoritesourcesbynewsapikeyquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\shared\\infrastructure\\persistence\\efc\\configuration\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\shared\\infrastructure\\persistence\\efc\\configuration\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\interfaces\\rest\\resources\\createfavoritesourceresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\interfaces\\rest\\resources\\createfavoritesourceresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\news\\domain\\services\\ifavoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\news\\domain\\services\\ifavoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\marteyviernes\\semana13\\catchup2406\\catchup2406\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D9D8D99-3637-4987-A2E1-76FC0AB45AD9}|CatchUp2406\\CatchUp2406.csproj|solutionrelative:catchup2406\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +86,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\Program.cs",
-              "RelativeDocumentMoniker": "CatchUp2406\\Program.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\Program.cs",
-              "RelativeToolTip": "CatchUp2406\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FavoriteSourceQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Application\\Internal\\CommandServices\\FavoriteSourceQueryService.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Application\\Internal\\CommandServices\\FavoriteSourceQueryService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Application\\Internal\\CommandServices\\FavoriteSourceQueryService.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Application\\Internal\\CommandServices\\FavoriteSourceQueryService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:39:13.82Z",
+              "WhenOpened": "2025-07-02T01:58:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFavoriteSourceQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Services\\IFavoriteSourceQueryService.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Domain\\Services\\IFavoriteSourceQueryService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Services\\IFavoriteSourceQueryService.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Domain\\Services\\IFavoriteSourceQueryService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:05:30.09Z",
               "EditorCaption": ""
             },
             {
@@ -41,10 +122,213 @@
               "RelativeDocumentMoniker": "CatchUp2406\\News\\Interfaces\\REST\\FavoriteSourceController.cs",
               "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\FavoriteSourceController.cs",
               "RelativeToolTip": "CatchUp2406\\News\\Interfaces\\REST\\FavoriteSourceController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwGIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T02:38:37.498Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FavoriteSourceCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Application\\Internal\\CommandServices\\FavoriteSourceCommandService.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Application\\Internal\\CommandServices\\FavoriteSourceCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Application\\Internal\\CommandServices\\FavoriteSourceCommandService.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Application\\Internal\\CommandServices\\FavoriteSourceCommandService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:13:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFavoriteSourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Repositories\\IFavoriteSourceRepository.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Domain\\Repositories\\IFavoriteSourceRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Repositories\\IFavoriteSourceRepository.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Domain\\Repositories\\IFavoriteSourceRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:21:44.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FavoriteSourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Infrastructure\\FavoriteSourceRepository.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Infrastructure\\FavoriteSourceRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Infrastructure\\FavoriteSourceRepository.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Infrastructure\\FavoriteSourceRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBYAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:15:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Model\\Queries\\GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Domain\\Model\\Queries\\GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Model\\Queries\\GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Domain\\Model\\Queries\\GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:32:28.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoriteSourceResourceFromEntityAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\Transform\\FavoriteSourceResourceFromEntityAssembler.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Interfaces\\REST\\Transform\\FavoriteSourceResourceFromEntityAssembler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\Transform\\FavoriteSourceResourceFromEntityAssembler.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Interfaces\\REST\\Transform\\FavoriteSourceResourceFromEntityAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:01:15.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetFavoriteSourcesByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Model\\Queries\\GetFavoriteSourcesByIdQuery.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Domain\\Model\\Queries\\GetFavoriteSourcesByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Model\\Queries\\GetFavoriteSourcesByIdQuery.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Domain\\Model\\Queries\\GetFavoriteSourcesByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:13:42.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavoriteSourceResource.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\Resources\\FavoriteSourceResource.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Interfaces\\REST\\Resources\\FavoriteSourceResource.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\Resources\\FavoriteSourceResource.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Interfaces\\REST\\Resources\\FavoriteSourceResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:00:16.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateFavoriteSourceCommandFromResourceAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\Transform\\CreateFavoriteSourceCommandFromResourceAssembler.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Interfaces\\REST\\Transform\\CreateFavoriteSourceCommandFromResourceAssembler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\Transform\\CreateFavoriteSourceCommandFromResourceAssembler.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Interfaces\\REST\\Transform\\CreateFavoriteSourceCommandFromResourceAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:50:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Model\\Queries\\GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Domain\\Model\\Queries\\GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Model\\Queries\\GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Domain\\Model\\Queries\\GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:03:58.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\Program.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\Program.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\Program.cs",
+              "RelativeToolTip": "CatchUp2406\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAtwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:39:13.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\appsettings.json",
+              "RelativeDocumentMoniker": "CatchUp2406\\appsettings.json",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\appsettings.json",
+              "RelativeToolTip": "CatchUp2406\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T02:17:55.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CatchUp2406\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CatchUp2406\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T02:21:19.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "RelativeToolTip": "CatchUp2406\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:19:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateFavoriteSourceResource.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\Resources\\CreateFavoriteSourceResource.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Interfaces\\REST\\Resources\\CreateFavoriteSourceResource.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Interfaces\\REST\\Resources\\CreateFavoriteSourceResource.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Interfaces\\REST\\Resources\\CreateFavoriteSourceResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:47:51.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFavoriteSourceCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
+              "RelativeDocumentMoniker": "CatchUp2406\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
+              "RelativeToolTip": "CatchUp2406\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:23:02.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CatchUp2406\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\marteyviernes\\Semana13\\CatchUp2406\\CatchUp2406\\appsettings.Development.json",
+              "RelativeToolTip": "CatchUp2406\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T00:51:00.604Z"
             }
           ]
         }

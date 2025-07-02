@@ -47,6 +47,43 @@
             "description": "The favorite source was not created"
           }
         }
+      },
+      "get": {
+        "tags": [
+          "FavoriteSource"
+        ],
+        "summary": "Gets a favorite source by id and new api key",
+        "description": "Gets a favorite source by id and new api key",
+        "operationId": "GetFavoriteSourceFromQuery",
+        "parameters": [
+          {
+            "name": "newsApiKey",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "sourceId",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": ""
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Result(s) was/were found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FavoriteSourceResource"
+                }
+              }
+            }
+          }
+        }
       }
     },
     "/api/v1/favorite-source/{newsApiKey}": {
@@ -60,6 +97,38 @@
         "parameters": [
           {
             "name": "newsApiKey",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Result(s) was/were found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FavoriteSourceResource"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/favorite-source/{id}": {
+      "get": {
+        "tags": [
+          "FavoriteSource"
+        ],
+        "summary": "Gets a favorite source by id",
+        "description": "Gets a favorite source by id",
+        "operationId": "GetFavoriteSourcesById",
+        "parameters": [
+          {
+            "name": "id",
             "in": "path",
             "required": true,
             "schema": {

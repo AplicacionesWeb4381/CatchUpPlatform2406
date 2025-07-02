@@ -6,6 +6,6 @@ namespace CatchUp2406.News.Interfaces.REST.Transform
     {
         public static FavoriteSourceResource ToResourceFromEntity(FavoriteSource entity) =>
             new FavoriteSourceResource(entity.Id, entity.NewsApiKey, entity.SourceId);
-        
+
     }
 }

@@ -13,5 +13,17 @@ namespace CatchUp2406.News.Domain.Repositories
         /// An Enumerable containing the favorite source objects if found, or empty otherwise.
         /// </returns>
         Task<IEnumerable<FavoriteSource>> FindByNewsApiKeyAsync(string newsApiKey);
+
+        /// <summary>
+        /// Find favorite sources by Id
+        /// </summary>
+        /// <param name="Id">The Id to search.</param>
+        /// <returns>
+        /// The favorite source objects if found, or empty otherwise.
+        /// </returns>
+        Task<FavoriteSource> FindByIdAsync(string Id);
+
+        Task<FavoriteSource> FindByNewsApiKeyAsyncSourceId(string NewapiKey, string SourceId);
+
     }
 }

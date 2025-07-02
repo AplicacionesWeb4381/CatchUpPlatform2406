@@ -30,6 +30,59 @@
   },
   {
     "ContainingType": "CatchUp2406.News.Interfaces.REST.FavoriteSourceController",
+    "Method": "GetFavoriteSourceFromQuery",
+    "RelativePath": "api/v1/favorite-source",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newsApiKey",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sourceId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CatchUp2406.News.Interfaces.REST.Resources.FavoriteSourceResource",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CatchUp2406.News.Interfaces.REST.FavoriteSourceController",
+    "Method": "GetFavoriteSourcesById",
+    "RelativePath": "api/v1/favorite-source/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CatchUp2406.News.Interfaces.REST.Resources.FavoriteSourceResource",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CatchUp2406.News.Interfaces.REST.FavoriteSourceController",
     "Method": "GetAllFavoriteSourcesByNewsApiKey",
     "RelativePath": "api/v1/favorite-source/{newsApiKey}",
     "HttpMethod": "GET",
